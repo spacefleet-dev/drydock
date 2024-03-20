@@ -28,15 +28,15 @@ clean:
 	go clean -cache
 
 release tag:
+    git tag {{tag}}
     just changelog {{ tag }}
     git add CHANGELOG.md
     git commit -m "release: Releaseing version {{tag}}"
-    git tag {{tag}}
     git push
     git push origin {{tag}}
 
 changelog tag:
-    git-cliff --config cliff.toml --prepend CHANGELOG.md --unreleased --tag {{ tag }}
+    git-cliff --config cliff.toml -o CHANGELOG.md --tag {{ tag }}
 
 _install-tools:
     @just _install-tool golangci-lint github.com/golangci/golangci-lint/cmd/golangci-lint
