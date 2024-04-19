@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.1.1](https://github.com/spacefleet-dev/drydock/releases/tag/v1.1.1) - 2024-04-19
+
+### <!-- 1 -->Fixes
+
+- Fix DirP creating directories in reverse order [94f3124043](https://github.com/spacefleet-dev/drydock/commit/94f312404368e24e055abddfbc2d3864f2c433b8)(@Robin Thrift)
+
+### <!-- 6 -->Other Changes
+
+- Releasing version v1.1.0 [5fb28e16a3](https://github.com/spacefleet-dev/drydock/commit/5fb28e16a3cda40f748e25cefaa6138f29b6ce5a)(@Robin Thrift)
+
 ## [1.1.0](https://github.com/spacefleet-dev/drydock/releases/tag/v1.1.0) - 2024-04-19
 
 ### <!-- 0 -->New Features (WritableFS)
@@ -27,6 +37,7 @@
 - Init commit [9841eab518](https://github.com/spacefleet-dev/drydock/commit/9841eab51808290e56f15c6ddf7e01b24705a081)(@Robin Thrift)
 - Releaseing version v1.0.0 [b77dcbb630](https://github.com/spacefleet-dev/drydock/commit/b77dcbb63048fda5b77415f2918536f1b1ec7aa3)(@Robin Thrift)
 
+[1.1.1]: https://github.com/spacefleet-dev/drydock/compare/v1.1.0..v1.1.1
 [1.1.0]: https://github.com/spacefleet-dev/drydock/compare/v1.0.1..v1.1.0
 [1.0.1]: https://github.com/spacefleet-dev/drydock/compare/v1.0.0..v1.0.1
 
