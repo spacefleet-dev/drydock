@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.0](https://github.com/spacefleet-dev/drydock/releases/tag/v1.2.0) - 2024-04-19
+
+### <!-- 5 -->Removed
+
+- Remove dead commented out code [4c58090760](https://github.com/spacefleet-dev/drydock/commit/4c58090760b8de091e18a5ad87f1930dfa718f02)(@Robin Thrift)
+
+### <!-- 6 -->Other Changes
+
+- Releasing version v1.1.1 [49edd5b977](https://github.com/spacefleet-dev/drydock/commit/49edd5b977d35a9549bad75d19d0e8847fa87cae)(@Robin Thrift)
+- Add extra test for DirP [6c8fad1257](https://github.com/spacefleet-dev/drydock/commit/6c8fad125795886b2305fdfe68ad4111ca50bbbb)(@Robin Thrift)
+- Add render function to visualise file tree [a75fd63f9f](https://github.com/spacefleet-dev/drydock/commit/a75fd63f9f40a8a71c95ef4ca2a04982047ffa62)(@Robin Thrift)
+
 ## [1.1.1](https://github.com/spacefleet-dev/drydock/releases/tag/v1.1.1) - 2024-04-19
 
 ### <!-- 1 -->Fixes
@@ -37,6 +49,7 @@
 - Init commit [9841eab518](https://github.com/spacefleet-dev/drydock/commit/9841eab51808290e56f15c6ddf7e01b24705a081)(@Robin Thrift)
 - Releaseing version v1.0.0 [b77dcbb630](https://github.com/spacefleet-dev/drydock/commit/b77dcbb63048fda5b77415f2918536f1b1ec7aa3)(@Robin Thrift)
 
+[1.2.0]: https://github.com/spacefleet-dev/drydock/compare/v1.1.1..v1.2.0
 [1.1.1]: https://github.com/spacefleet-dev/drydock/compare/v1.1.0..v1.1.1
 [1.1.0]: https://github.com/spacefleet-dev/drydock/compare/v1.0.1..v1.1.0
 [1.0.1]: https://github.com/spacefleet-dev/drydock/compare/v1.0.0..v1.0.1
