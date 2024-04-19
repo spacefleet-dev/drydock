@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.2.1](https://github.com/spacefleet-dev/drydock/releases/tag/v1.2.1) - 2024-04-19
+
+### <!-- 1 -->Fixes
+
+- Fix current directory in DirP causing issues when ErrorOnExistingDir is true [b18cb4b88c](https://github.com/spacefleet-dev/drydock/commit/b18cb4b88cb5b2e675692d37ce15ed102dd9fa64)(@Robin Thrift)
+
+### <!-- 6 -->Other Changes
+
+- Releasing version v1.2.0 [774c886f91](https://github.com/spacefleet-dev/drydock/commit/774c886f9108f56800bc342862059ab04985267e)(@Robin Thrift)
+
 ## [1.2.0](https://github.com/spacefleet-dev/drydock/releases/tag/v1.2.0) - 2024-04-19
 
 ### <!-- 5 -->Removed
@@ -49,6 +59,7 @@
 - Init commit [9841eab518](https://github.com/spacefleet-dev/drydock/commit/9841eab51808290e56f15c6ddf7e01b24705a081)(@Robin Thrift)
 - Releaseing version v1.0.0 [b77dcbb630](https://github.com/spacefleet-dev/drydock/commit/b77dcbb63048fda5b77415f2918536f1b1ec7aa3)(@Robin Thrift)
 
+[1.2.1]: https://github.com/spacefleet-dev/drydock/compare/v1.2.0..v1.2.1
 [1.2.0]: https://github.com/spacefleet-dev/drydock/compare/v1.1.1..v1.2.0
 [1.1.1]: https://github.com/spacefleet-dev/drydock/compare/v1.1.0..v1.1.1
 [1.1.0]: https://github.com/spacefleet-dev/drydock/compare/v1.0.1..v1.1.0
