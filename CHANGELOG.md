@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://github.com/spacefleet-dev/drydock/releases/tag/v1.3.0) - 2024-06-11
+
+### <!-- 1 -->Fixes
+
+- Remove golangci-lint from direct dev depdendencies [ce6218aa78](https://github.com/spacefleet-dev/drydock/commit/ce6218aa788d1d830fe967173ca7c73d1c3d4d76)(@Robin Thrift)
+- Fix automatic installation of golangci-lint [6059be2820](https://github.com/spacefleet-dev/drydock/commit/6059be2820b873084bbdb3a744e650c6546628d5)(@Robin Thrift)
+
+### <!-- 6 -->Other Changes
+
+- Releasing version v1.2.1 [14207bb816](https://github.com/spacefleet-dev/drydock/commit/14207bb81665cc91ba9cc3e862d40588115532b8)(@Robin Thrift)
+- Add GitHub Actions output to test [1303e4fac3](https://github.com/spacefleet-dev/drydock/commit/1303e4fac3c2c5628ccb96f72df6be51e4c59f09)(@Robin Thrift)
+
 ## [1.2.1](https://github.com/spacefleet-dev/drydock/releases/tag/v1.2.1) - 2024-04-19
 
 ### <!-- 1 -->Fixes
@@ -59,6 +71,7 @@
 - Init commit [9841eab518](https://github.com/spacefleet-dev/drydock/commit/9841eab51808290e56f15c6ddf7e01b24705a081)(@Robin Thrift)
 - Releaseing version v1.0.0 [b77dcbb630](https://github.com/spacefleet-dev/drydock/commit/b77dcbb63048fda5b77415f2918536f1b1ec7aa3)(@Robin Thrift)
 
+[1.3.0]: https://github.com/spacefleet-dev/drydock/compare/v1.2.1..v1.3.0
 [1.2.1]: https://github.com/spacefleet-dev/drydock/compare/v1.2.0..v1.2.1
 [1.2.0]: https://github.com/spacefleet-dev/drydock/compare/v1.1.1..v1.2.0
 [1.1.1]: https://github.com/spacefleet-dev/drydock/compare/v1.1.0..v1.1.1
